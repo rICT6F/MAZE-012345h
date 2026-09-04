@@ -1,0 +1,2 @@
+# MAZE-12345h
+MSX2 DISK
