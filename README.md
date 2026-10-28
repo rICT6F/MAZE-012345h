@@ -1,1 +1,0 @@
-<img src="MAZE0_0000-3 (Sample) (Generated Image).png" width="880" alt="Sample">
